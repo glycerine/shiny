@@ -9,7 +9,7 @@ import (
 	"image"
 	"sync"
 
-	"github.com/oakmound/shiny/screen"
+	"github.com/glycerine/shiny/screen"
 	"golang.org/x/mobile/gl"
 )
 

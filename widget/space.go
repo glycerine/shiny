@@ -5,7 +5,7 @@
 package widget
 
 import (
-	"github.com/oakmound/shiny/widget/node"
+	"github.com/glycerine/shiny/widget/node"
 )
 
 // Space is leaf widget that occupies empty space. For example, aligning two

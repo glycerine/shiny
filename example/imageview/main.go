@@ -18,9 +18,9 @@ import (
 	"log"
 	"os"
 
-	"github.com/oakmound/shiny/driver"
-	"github.com/oakmound/shiny/screen"
-	"github.com/oakmound/shiny/widget"
+	"github.com/glycerine/shiny/driver"
+	"github.com/glycerine/shiny/screen"
+	"github.com/glycerine/shiny/widget"
 
 	_ "image/gif"
 	_ "image/jpeg"

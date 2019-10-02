@@ -15,8 +15,8 @@ import (
 	"syscall"
 	"unsafe"
 
-	"github.com/oakmound/shiny/driver/internal/win32"
-	"github.com/oakmound/shiny/screen"
+	"github.com/glycerine/shiny/driver/internal/win32"
+	"github.com/glycerine/shiny/screen"
 	"github.com/oakmound/w32"
 )
 

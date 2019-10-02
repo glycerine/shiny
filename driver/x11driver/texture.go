@@ -14,7 +14,7 @@ import (
 	"github.com/BurntSushi/xgb/render"
 	"github.com/BurntSushi/xgb/xproto"
 
-	"github.com/oakmound/shiny/screen"
+	"github.com/glycerine/shiny/screen"
 	"golang.org/x/image/math/f64"
 )
 

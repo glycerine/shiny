@@ -7,7 +7,7 @@ package theme
 import (
 	"testing"
 
-	"github.com/oakmound/shiny/unit"
+	"github.com/glycerine/shiny/unit"
 	"golang.org/x/image/math/fixed"
 )
 

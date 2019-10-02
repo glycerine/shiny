@@ -21,8 +21,8 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/oakmound/shiny/driver"
-	"github.com/oakmound/shiny/screen"
+	"github.com/glycerine/shiny/driver"
+	"github.com/glycerine/shiny/screen"
 	"golang.org/x/mobile/event/key"
 	"golang.org/x/mobile/event/lifecycle"
 	"golang.org/x/mobile/event/mouse"

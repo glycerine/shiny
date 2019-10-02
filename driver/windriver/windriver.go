@@ -7,9 +7,9 @@
 package windriver
 
 import (
-	"github.com/oakmound/shiny/driver/internal/errscreen"
-	"github.com/oakmound/shiny/driver/internal/win32"
-	"github.com/oakmound/shiny/screen"
+	"github.com/glycerine/shiny/driver/internal/errscreen"
+	"github.com/glycerine/shiny/driver/internal/win32"
+	"github.com/glycerine/shiny/screen"
 )
 
 // Main is called by the program's main function to run the graphical

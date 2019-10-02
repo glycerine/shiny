@@ -5,9 +5,9 @@
 package widget
 
 import (
-	"github.com/oakmound/shiny/unit"
-	"github.com/oakmound/shiny/widget/node"
-	"github.com/oakmound/shiny/widget/theme"
+	"github.com/glycerine/shiny/unit"
+	"github.com/glycerine/shiny/widget/node"
+	"github.com/glycerine/shiny/widget/theme"
 )
 
 // Padder is a shell widget that adds a margin to the inner widget's measured

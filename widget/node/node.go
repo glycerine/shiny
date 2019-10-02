@@ -44,9 +44,9 @@ package node
 import (
 	"image"
 
-	"github.com/oakmound/shiny/gesture"
-	"github.com/oakmound/shiny/screen"
-	"github.com/oakmound/shiny/widget/theme"
+	"github.com/glycerine/shiny/gesture"
+	"github.com/glycerine/shiny/screen"
+	"github.com/glycerine/shiny/widget/theme"
 	"golang.org/x/image/math/f64"
 	"golang.org/x/mobile/event/lifecycle"
 	"golang.org/x/mobile/event/mouse"

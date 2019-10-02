@@ -31,8 +31,8 @@ import (
 	"time"
 	"unsafe"
 
-	"github.com/oakmound/shiny/driver/internal/x11key"
-	"github.com/oakmound/shiny/screen"
+	"github.com/glycerine/shiny/driver/internal/x11key"
+	"github.com/glycerine/shiny/screen"
 	"golang.org/x/mobile/event/key"
 	"golang.org/x/mobile/event/mouse"
 	"golang.org/x/mobile/event/paint"

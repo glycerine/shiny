@@ -7,8 +7,8 @@
 package driver
 
 import (
-	"github.com/oakmound/shiny/driver/gldriver"
-	"github.com/oakmound/shiny/screen"
+	"github.com/glycerine/shiny/driver/gldriver"
+	"github.com/glycerine/shiny/screen"
 )
 
 func main(f func(screen.Screen)) {

@@ -12,7 +12,7 @@ import (
 	"sync"
 	"syscall"
 
-	"github.com/oakmound/shiny/driver/internal/swizzle"
+	"github.com/glycerine/shiny/driver/internal/swizzle"
 )
 
 type bufferImpl struct {

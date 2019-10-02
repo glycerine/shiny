@@ -8,8 +8,8 @@ import (
 	"image"
 	"image/draw"
 
-	"github.com/oakmound/shiny/widget/node"
-	"github.com/oakmound/shiny/widget/theme"
+	"github.com/glycerine/shiny/widget/node"
+	"github.com/glycerine/shiny/widget/theme"
 )
 
 // TODO: mask and maskPoint, not just src and srcRect.

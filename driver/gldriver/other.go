@@ -13,7 +13,7 @@ import (
 	"fmt"
 	"runtime"
 
-	"github.com/oakmound/shiny/screen"
+	"github.com/glycerine/shiny/screen"
 )
 
 func newWindow(opts screen.WindowGenerator) (uintptr, error) { return 0, nil }

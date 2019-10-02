@@ -17,12 +17,12 @@ package main
 import (
 	"log"
 
-	"github.com/oakmound/shiny/driver"
-	"github.com/oakmound/shiny/screen"
-	"github.com/oakmound/shiny/unit"
-	"github.com/oakmound/shiny/widget"
-	"github.com/oakmound/shiny/widget/node"
-	"github.com/oakmound/shiny/widget/theme"
+	"github.com/glycerine/shiny/driver"
+	"github.com/glycerine/shiny/screen"
+	"github.com/glycerine/shiny/unit"
+	"github.com/glycerine/shiny/widget"
+	"github.com/glycerine/shiny/widget/node"
+	"github.com/glycerine/shiny/widget/theme"
 )
 
 func stretch(n node.Node, alongWeight int) node.Node {

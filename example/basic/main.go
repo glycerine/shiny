@@ -18,9 +18,9 @@ import (
 	"log"
 	"math"
 
-	"github.com/oakmound/shiny/driver"
-	"github.com/oakmound/shiny/imageutil"
-	"github.com/oakmound/shiny/screen"
+	"github.com/glycerine/shiny/driver"
+	"github.com/glycerine/shiny/imageutil"
+	"github.com/glycerine/shiny/screen"
 	"golang.org/x/image/math/f64"
 	"golang.org/x/mobile/event/key"
 	"golang.org/x/mobile/event/lifecycle"

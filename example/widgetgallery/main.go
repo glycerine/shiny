@@ -17,11 +17,11 @@ import (
 	"image/draw"
 	"log"
 
-	"github.com/oakmound/shiny/driver"
-	"github.com/oakmound/shiny/gesture"
-	"github.com/oakmound/shiny/screen"
-	"github.com/oakmound/shiny/widget"
-	"github.com/oakmound/shiny/widget/node"
+	"github.com/glycerine/shiny/driver"
+	"github.com/glycerine/shiny/gesture"
+	"github.com/glycerine/shiny/screen"
+	"github.com/glycerine/shiny/widget"
+	"github.com/glycerine/shiny/widget/node"
 )
 
 var uniforms = [...]*image.Uniform{

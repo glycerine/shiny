@@ -9,7 +9,7 @@ import (
 	"image"
 	"os"
 
-	"github.com/oakmound/shiny/text"
+	"github.com/glycerine/shiny/text"
 	"golang.org/x/image/font"
 	"golang.org/x/image/math/fixed"
 )

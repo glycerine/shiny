@@ -20,9 +20,9 @@ import (
 	"github.com/BurntSushi/xgb/shm"
 	"github.com/BurntSushi/xgb/xproto"
 
-	"github.com/oakmound/shiny/driver/internal/x11key"
-	"github.com/oakmound/shiny/screen"
-	"github.com/oakmound/shiny/unit"
+	"github.com/glycerine/shiny/driver/internal/x11key"
+	"github.com/glycerine/shiny/screen"
+	"github.com/glycerine/shiny/unit"
 	"golang.org/x/image/math/f64"
 	"golang.org/x/mobile/event/key"
 	"golang.org/x/mobile/event/mouse"

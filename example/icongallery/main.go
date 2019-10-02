@@ -19,15 +19,15 @@ import (
 	"image/draw"
 	"log"
 
-	"github.com/oakmound/shiny/driver"
-	"github.com/oakmound/shiny/gesture"
-	"github.com/oakmound/shiny/iconvg"
-	"github.com/oakmound/shiny/materialdesign/icons"
-	"github.com/oakmound/shiny/screen"
-	"github.com/oakmound/shiny/unit"
-	"github.com/oakmound/shiny/widget"
-	"github.com/oakmound/shiny/widget/node"
-	"github.com/oakmound/shiny/widget/theme"
+	"github.com/glycerine/shiny/driver"
+	"github.com/glycerine/shiny/gesture"
+	"github.com/glycerine/shiny/iconvg"
+	"github.com/glycerine/shiny/materialdesign/icons"
+	"github.com/glycerine/shiny/screen"
+	"github.com/glycerine/shiny/unit"
+	"github.com/glycerine/shiny/widget"
+	"github.com/glycerine/shiny/widget/node"
+	"github.com/glycerine/shiny/widget/theme"
 )
 
 func stretch(n node.Node, alongWeight int) node.Node {

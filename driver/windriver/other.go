@@ -10,8 +10,8 @@ import (
 	"fmt"
 	"runtime"
 
-	"github.com/oakmound/shiny/driver/internal/errscreen"
-	"github.com/oakmound/shiny/screen"
+	"github.com/glycerine/shiny/driver/internal/errscreen"
+	"github.com/glycerine/shiny/screen"
 )
 
 // Main is called by the program's main function to run the graphical

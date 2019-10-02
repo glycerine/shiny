@@ -19,8 +19,8 @@ import (
 	"log"
 	"sync"
 
-	"github.com/oakmound/shiny/driver"
-	"github.com/oakmound/shiny/screen"
+	"github.com/glycerine/shiny/driver"
+	"github.com/glycerine/shiny/screen"
 	"golang.org/x/image/font"
 	"golang.org/x/image/font/inconsolata"
 	"golang.org/x/image/math/fixed"

@@ -12,7 +12,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/oakmound/shiny/iconvg"
+	"github.com/glycerine/shiny/iconvg"
 )
 
 func Example() {

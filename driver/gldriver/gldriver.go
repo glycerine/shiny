@@ -10,8 +10,8 @@ import (
 	"fmt"
 	"math"
 
-	"github.com/oakmound/shiny/driver/internal/errscreen"
-	"github.com/oakmound/shiny/screen"
+	"github.com/glycerine/shiny/driver/internal/errscreen"
+	"github.com/glycerine/shiny/screen"
 	"golang.org/x/image/math/f64"
 	"golang.org/x/mobile/gl"
 )

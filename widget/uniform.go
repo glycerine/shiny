@@ -8,8 +8,8 @@ import (
 	"image"
 	"image/draw"
 
-	"github.com/oakmound/shiny/widget/node"
-	"github.com/oakmound/shiny/widget/theme"
+	"github.com/glycerine/shiny/widget/node"
+	"github.com/glycerine/shiny/widget/theme"
 )
 
 // Uniform is a shell widget that paints a uniform color, analogous to an

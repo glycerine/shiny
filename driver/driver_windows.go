@@ -5,8 +5,8 @@
 package driver
 
 import (
-	"github.com/oakmound/shiny/driver/windriver"
-	"github.com/oakmound/shiny/screen"
+	"github.com/glycerine/shiny/driver/windriver"
+	"github.com/glycerine/shiny/screen"
 )
 
 func main(f func(screen.Screen)) {

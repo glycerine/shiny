@@ -7,8 +7,8 @@ package widget
 import (
 	"image"
 
-	"github.com/oakmound/shiny/widget/node"
-	"github.com/oakmound/shiny/widget/theme"
+	"github.com/glycerine/shiny/widget/node"
+	"github.com/glycerine/shiny/widget/theme"
 )
 
 // TODO: padding, alignment.

@@ -11,10 +11,10 @@ import (
 	"image/color"
 	"testing"
 
-	"github.com/oakmound/shiny/unit"
-	"github.com/oakmound/shiny/widget"
-	"github.com/oakmound/shiny/widget/node"
-	"github.com/oakmound/shiny/widget/theme"
+	"github.com/glycerine/shiny/unit"
+	"github.com/glycerine/shiny/widget"
+	"github.com/glycerine/shiny/widget/node"
+	"github.com/glycerine/shiny/widget/theme"
 )
 
 type layoutTest struct {
